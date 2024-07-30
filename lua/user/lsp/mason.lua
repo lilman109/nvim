@@ -8,7 +8,9 @@ local servers = {
   "jsonls",
   "astro",
   "mason",
-  "tailwindcss"
+  "tailwindcss",
+  "ruby",
+  "solargraph"
   -- "yamlls",
 }
 
